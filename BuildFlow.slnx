@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BuildFlow.API/BuildFlow.API.csproj" />
+    <Project Path="src/BuildFlow.Application/BuildFlow.Application.csproj" />
+    <Project Path="src/BuildFlow.Contracts/BuildFlow.Contracts.csproj" />
+    <Project Path="src/BuildFlow.Domain/BuildFlow.Domain.csproj" />
+    <Project Path="src/BuildFlow.Infrastructure/BuildFlow.Infrastructure.csproj" />
+    <Project Path="src/BuildFlow.Persistence/BuildFlow.Persistence.csproj" />
+    <Project Path="src/BuildFlow.SharedKernel/BuildFlow.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BuildFlow.IntegrationTests/BuildFlow.IntegrationTests.csproj" />
+    <Project Path="tests/BuildFlow.UnitTests/BuildFlow.UnitTests.csproj" />
+  </Folder>
+</Solution>
